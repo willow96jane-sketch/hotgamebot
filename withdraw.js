@@ -51,7 +51,7 @@ function getCaption(amount, provider, mobile) {
   if (amount >= 1000) {
     return `🎉 <b>CONGRATULATIONS!</b>
 ━━━━━━━━━━━━━━
-🚨 <b>INTENSITY2 BIG WIN ALERT</b>
+🚨 <b>GALAXYAU BIG WIN ALERT</b>
 💰 <b>AUD ${amount.toFixed(2)}</b>
 🎰 <b>${provider}</b>
 📱 ${mobile}
@@ -66,7 +66,7 @@ function getCaption(amount, provider, mobile) {
 
   return `🎉 <b>CONGRATULATIONS!</b>
 ━━━━━━━━━━━━━━
-👽 <b>INTENSITY2 WIN UPDATE</b>
+👽 <b>GALAXYAU WIN UPDATE</b>
 💰 <b>AUD ${amount.toFixed(2)}</b>
 🎰 ${provider}
 📱 ${mobile}
